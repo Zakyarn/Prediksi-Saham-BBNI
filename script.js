@@ -401,7 +401,7 @@ flatpickr("#startDate", {
     dateFormat: "Y-m-d",
     minDate: "2019-01-01",
     maxDate: "2025-12-31",
-    defaultDate: "2019-01-01"
+    defaultDate: "2019-01-01",
     disableMobile: true,
     clickOpens: true
 });
